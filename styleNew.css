@@ -1,0 +1,27 @@
+body {
+	background: linear-gradient(to right, rgba(204, 229, 225, 0.8), rgba(204, 220, 218, 0.6), rgba(204, 215, 208, 0.5));
+	font-size: 1.15em;
+	text-align: justify;
+	font-weight: 400;
+	font-family: "Times New Roman", sans-serif;
+}
+#title {
+	color: rgb(148, 133, 9);
+}
+.subtitle {
+	color: rgb(200, 148, 30);
+}
+#service-image {
+	width: 70%;
+	height: 400px;
+	background: radial-gradient(circle, rgba(220, 256, 30, 0.8) 20%, rgba(220, 250, 20, 0.6) 40%, rgba(220, 240, 28, 0.2) 80%);
+}
+.myImage {
+	margin: 25px 0px;
+}
+.link {
+	text-decoration: underline;
+}
+.italics {
+	font-style: italic;
+}
